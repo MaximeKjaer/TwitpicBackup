@@ -6,7 +6,8 @@ Give it your tweets.zip archive, it'll give you all your twitpic pictures!
 ##Requires:
 
 - Python 3
-- lxml (run ```pip install lxml```)
+- [lxml](https://pypi.python.org/pypi/lxml/3.3.3)
+
 
 ##How to run it:
 
